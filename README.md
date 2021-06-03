@@ -1,3 +1,5 @@
+
+<meta name=”robots” content=”noindex”>
 # Acoes_relato-de-experi-ncia-
 Resultados e materiais utilizados nas ações do projeto em 2020
 
